@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "mirage.js": "^1.0.0",
+    "miragejs": "^0.1.40",
+    "prop-types": "^15.7.2",
+    "time-series-data-generator": "^0.1.5"
   }
 }
